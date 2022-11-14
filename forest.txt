@@ -1,0 +1,406 @@
+Attribute: sepallength
+--> Value: long
+  Predict Iris-virginica
+--> Value: medium
+  Attribute: sepalwidth
+  --> Value: medium
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+  --> Value: short
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+--> Value: short
+  Attribute: sepalwidth
+  --> Value: long
+    Predict Iris-setosa
+  --> Value: medium
+    Predict Iris-setosa
+  --> Value: short
+    Attribute: petallength
+    --> Value: medium
+      Predict Iris-versicolor
+    --> Value: short
+      Predict Iris-setosa
+
+Attribute: sepallength
+--> Value: long
+  Attribute: sepalwidth
+  --> Value: medium
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+  --> Value: short
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+--> Value: medium
+  Attribute: sepalwidth
+  --> Value: long
+    Predict Iris-setosa
+  --> Value: medium
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+  --> Value: short
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+--> Value: short
+  Attribute: sepalwidth
+  --> Value: long
+    Predict Iris-setosa
+  --> Value: medium
+    Predict Iris-setosa
+  --> Value: short
+    Predict Iris-versicolor
+
+Attribute: sepallength
+--> Value: long
+  Attribute: sepalwidth
+  --> Value: medium
+    Predict Iris-virginica
+  --> Value: short
+    Predict Iris-versicolor
+--> Value: medium
+  Attribute: sepalwidth
+  --> Value: medium
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+  --> Value: short
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+--> Value: short
+  Attribute: sepalwidth
+  --> Value: long
+    Predict Iris-setosa
+  --> Value: medium
+    Predict Iris-setosa
+  --> Value: short
+    Attribute: petallength
+    --> Value: medium
+      Predict Iris-versicolor
+    --> Value: short
+      Predict Iris-setosa
+
+Attribute: sepallength
+--> Value: long
+  Attribute: sepalwidth
+  --> Value: medium
+    Predict Iris-virginica
+  --> Value: short
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+--> Value: medium
+  Attribute: sepalwidth
+  --> Value: long
+    Predict Iris-setosa
+  --> Value: medium
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+  --> Value: short
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+--> Value: short
+  Attribute: sepalwidth
+  --> Value: long
+    Predict Iris-setosa
+  --> Value: medium
+    Attribute: petallength
+    --> Value: medium
+      Predict Iris-versicolor
+    --> Value: short
+      Predict Iris-setosa
+  --> Value: short
+    Attribute: petallength
+    --> Value: medium
+      Predict Iris-versicolor
+    --> Value: short
+      Predict Iris-setosa
+
+Attribute: sepallength
+--> Value: long
+  Attribute: sepalwidth
+  --> Value: long
+    Predict Iris-virginica
+  --> Value: medium
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+  --> Value: short
+    Predict Iris-virginica
+--> Value: medium
+  Attribute: sepalwidth
+  --> Value: long
+    Predict Iris-setosa
+  --> Value: medium
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+  --> Value: short
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+--> Value: short
+  Attribute: sepalwidth
+  --> Value: long
+    Predict Iris-setosa
+  --> Value: medium
+    Predict Iris-setosa
+  --> Value: short
+    Attribute: petallength
+    --> Value: medium
+      Predict Iris-versicolor
+
+Attribute: sepallength
+--> Value: long
+  Attribute: sepalwidth
+  --> Value: medium
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+  --> Value: short
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+--> Value: medium
+  Attribute: sepalwidth
+  --> Value: long
+    Predict Iris-setosa
+  --> Value: medium
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+  --> Value: short
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+--> Value: short
+  Attribute: sepalwidth
+  --> Value: long
+    Predict Iris-setosa
+  --> Value: medium
+    Attribute: petallength
+    --> Value: medium
+      Predict Iris-versicolor
+    --> Value: short
+      Predict Iris-setosa
+  --> Value: short
+    Attribute: petallength
+    --> Value: medium
+      Predict Iris-versicolor
+    --> Value: short
+      Predict Iris-setosa
+
+Attribute: sepallength
+--> Value: long
+  Attribute: sepalwidth
+  --> Value: medium
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+  --> Value: short
+    Predict Iris-virginica
+--> Value: medium
+  Attribute: sepalwidth
+  --> Value: medium
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+  --> Value: short
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+--> Value: short
+  Attribute: sepalwidth
+  --> Value: long
+    Predict Iris-setosa
+  --> Value: medium
+    Predict Iris-setosa
+  --> Value: short
+    Attribute: petallength
+    --> Value: medium
+      Predict Iris-versicolor
+    --> Value: short
+      Predict Iris-setosa
+
+Attribute: sepallength
+--> Value: long
+  Attribute: sepalwidth
+  --> Value: long
+    Predict Iris-virginica
+  --> Value: medium
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+  --> Value: short
+    Predict Iris-virginica
+--> Value: medium
+  Attribute: sepalwidth
+  --> Value: long
+    Predict Iris-setosa
+  --> Value: medium
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+  --> Value: short
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+--> Value: short
+  Attribute: sepalwidth
+  --> Value: long
+    Predict Iris-setosa
+  --> Value: medium
+    Predict Iris-setosa
+  --> Value: short
+    Attribute: petallength
+    --> Value: medium
+      Predict Iris-versicolor
+
+Attribute: sepallength
+--> Value: long
+  Attribute: sepalwidth
+  --> Value: medium
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+  --> Value: short
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+--> Value: medium
+  Attribute: sepalwidth
+  --> Value: long
+    Predict Iris-setosa
+  --> Value: medium
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+  --> Value: short
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+--> Value: short
+  Attribute: sepalwidth
+  --> Value: long
+    Predict Iris-setosa
+  --> Value: medium
+    Predict Iris-setosa
+  --> Value: short
+    Attribute: petallength
+    --> Value: medium
+      Predict Iris-versicolor
+    --> Value: short
+      Predict Iris-setosa
+
+Attribute: sepallength
+--> Value: long
+  Attribute: sepalwidth
+  --> Value: long
+    Predict Iris-virginica
+  --> Value: medium
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+  --> Value: short
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+--> Value: medium
+  Attribute: sepalwidth
+  --> Value: medium
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+  --> Value: short
+    Attribute: petallength
+    --> Value: long
+      Predict Iris-virginica
+    --> Value: medium
+      Predict Iris-versicolor
+--> Value: short
+  Attribute: sepalwidth
+  --> Value: long
+    Predict Iris-setosa
+  --> Value: medium
+    Attribute: petallength
+    --> Value: medium
+      Predict Iris-versicolor
+    --> Value: short
+      Predict Iris-setosa
+  --> Value: short
+    Attribute: petallength
+    --> Value: medium
+      Predict Iris-versicolor
+    --> Value: short
+      Predict Iris-setosa
+
